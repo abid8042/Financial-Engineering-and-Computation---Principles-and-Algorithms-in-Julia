@@ -3,7 +3,7 @@
 
 ## 1.) Basic Financial Mathematics.ipynb	
 ####   Covers some basic stuff such as NPV calculation in a efficient way etc.
-##  2.) Option Basics
+##  2.) Option Basics.ipynb
 ####   Definition of Call and puts,Payoff Diagrams, some option strategies.
 ##  3.) Numerical Algorithms for Option Pricing.ipynb
 ####   Optimised Algorithms :- Binomial Option Pricing Model for European options
