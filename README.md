@@ -1,4 +1,4 @@
-# Financial Engineering and Computation Principles and-Algorithms in Julia 
+# Financial Engineering and Computation Principles and Algorithms in Julia 
  Curation of some interesting Algorithms in Finance implemented in Julia Language
 
 ## 1.) Basic Financial Mathematics.ipynb	
